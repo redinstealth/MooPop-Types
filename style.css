@@ -9,14 +9,6 @@ h2 {
         src:url(../other/Minecraft.ttf)
 }
 
-#content {
-    text-align: center;
-    width: 800px;
-    margin-left: auto;
-    margin-right: auto;
-    list-style-type: none;
-}
-
 #types {
     background-color: rgba(0, 0, 0, 0.6);
     border-radius: 15px;
